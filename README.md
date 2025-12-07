@@ -1,12 +1,26 @@
-# 👋 Hi, I'm Melih - C++ Game Developer in Training
+# 👋 Melih - 3D Artist & Game Developer
 
-🚀 **2 days, 8 projects** - From zero to Unreal Engine C++ integration
+🎨 **3D Design Professional** | 👨💻 **C++ Game Developer** | 🚀 **Building Games from Art to Code**
 
-## 🎯 Current Goal
-Become a Junior Game Developer by building a strong portfolio in 30 days.
+## 🎯 What I Do
+I create complete game experiences by combining:
+- **3D Art & Design** (Professional freelance background)
+- **Game Programming** (C++, Unreal Engine, SFML)
+- **Technical Implementation** (Bridging art and code)
 
-## 📊 Progress (Day 2/30)
-✅ **8 Completed Projects:**
+## 🛠️ Technical Skills
+### 🎨 3D Art & Design
+- 3D Modeling & Texturing
+- [Blender]
+- Asset Creation & Optimization
+
+### 👨💻 Game Development
+- **C++** (Modern C++17, OOP, Algorithms)
+- **Game Engines:** Unreal Engine 5, SFML
+- **Tools:** Visual Studio, Git, GitHub
+
+## 📊 Current Challenge: 30-Day C++ Intensive
+**Day 2/30 - 8 Projects Completed:**
 1. Calculator (Console)
 2. Number Guessing Game  
 3. TODO List with File Saving
@@ -16,34 +30,10 @@ Become a Junior Game Developer by building a strong portfolio in 30 days.
 7. Unreal Engine 5 C++ Actor
 8. Zoo Management System (OOP)
 
-## 🛠️ Technologies
-- **C++** (Modern C++17, OOP, STL, Smart Pointers)
-- **Game Development:** SFML, Unreal Engine 5
-- **Algorithms:** A* Pathfinding, Sorting, Search
-- **Tools:** Visual Studio, Git, GitHub
-
-## 🎮 Game Development Focus
-- 2D game development with SFML
-- Unreal Engine 5 C++ integration
-- Game mechanics implementation
-- Performance optimization
-
-## 📈 Learning Path
-1. **Week 1:** C++ Fundamentals + Basic Projects
-2. **Week 2:** Game Development + Algorithms
-3. **Week 3:** Unreal Engine + Advanced Topics
-4. **Week 4:** Portfolio Polish + Job Preparation
-
-## 🌐 Portfolio Website
-🔗 [https://escapeesctr.github.io/my-portfolio/](https://escapeesctr.github.io/my-portfolio/)
-
-## 📫 Connect
-- GitHub: [@escapeesctr](https://github.com/escapeesctr)
-- Portfolio: [My Portfolio Site](https://escapeesctr.github.io/my-portfolio/)
-
-## 🚀 Daily Updates
-I'm documenting my journey with daily project updates. Follow along!
+## 🌐 Connect
+- **Portfolio:** [https://escapeesctr.github.io/my-portfolio/](https://escapeesctr.github.io/my-portfolio/)
+- **GitHub:** [@escapeesctr](https://github.com/escapeesctr)
 
 ---
 
-*"Code, learn, repeat. 30 days to transformation."*
+*"Creating worlds, both visually and programmatically."*
